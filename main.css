@@ -1,0 +1,48 @@
+table {
+    border-collapse: collapse;
+    border:  2px solid white;
+    width: 500px;
+    height: 300px;
+}
+td, th {
+    text-align: center;
+    border:  2px solid white;
+}
+#h1 {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+.aa {
+    color: red;
+    text-align: center;
+    border:  3px solid #938e8e;
+}
+#h2 {
+    background-color: red;
+    color: white;
+}
+.ac {
+    background-color: gold;
+    color: white;
+}
+#h3 {
+    background-color: #003380;
+    color: white;
+}
+.ag {
+    color: blue;
+    border:  3px solid #938e8e;
+}
+.az {
+    color: black;
+}
+.aw,ac {
+    border:  3px solid #938e8e;
+}
+#h4 {
+    color: red;
+}
+#h5 {
+    color: blue;
+}
